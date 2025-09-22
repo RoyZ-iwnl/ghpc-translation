@@ -37,19 +37,9 @@ jobs:
         # 创建发布目录
         mkdir -p release
         
-        # 打包项目代码，排除不需要的文件
-        tar -czf release/ghpc-translation-${{ steps.date.outputs.date }}.tar.gz \
-          --exclude='.git' \
-          --exclude='.github' \
-          --exclude='node_modules' \
-          --exclude='*.log' \
-          --exclude='.env*' \
-          --exclude='release' \
-          .
-        
-        # 创建 zip 格式的压缩包
-        zip -r release/ghpc-translation-${{ steps.date.outputs.date }}.zip . \
-          -x '.git/*' '.github/*' 'node_modules/*' '*.log' '.env*' 'release/*'
+        # 创建 zip 格式的压缩包，使用最高压缩比
+        zip -9 -r release/ghpc-translation-${{ steps.date.outputs.date }}.zip . \
+          -x '.git/*' '.github/*' '.gitignore' 'node_modules/*' '*.log' '.env*' 'release/*'
     
     - name: Generate release notes
       if: steps.changes.outputs.has_changes == 'true'
@@ -80,17 +70,6 @@ jobs:
         draft: false
         prerelease: false
       id: create_release
-    
-    - name: Upload Release Assets
-      if: steps.changes.outputs.has_changes == 'true'
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release/ghpc-translation-${{ steps.date.outputs.date }}.tar.gz
-        asset_name: ghpc-translation-${{ steps.date.outputs.date }}.tar.gz
-        asset_content_type: application/gzip
     
     - name: Upload ZIP Release Asset
       if: steps.changes.outputs.has_changes == 'true'
