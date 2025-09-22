@@ -1,3 +1,4 @@
 *.py
 OUTPUT.txt
 *.log
+.claude/settings.local.json
