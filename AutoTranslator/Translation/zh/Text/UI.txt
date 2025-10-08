@@ -20,7 +20,7 @@ Gunnery Guides=炮手指导
 How To Play=如何玩
 
 Start=开始
-map data\nunavailable=地图数据\n不可用的
+map data \r\n unavailable=地图数据 \r\n 不可用的
 time:=时间
 Input=输入
 Objectives:=目标：
@@ -162,8 +162,8 @@ T-{{A}}AV (IN PLATOON)=T-{{A}}AV (在排中)
 T-{{A}}B=T-{{A}}B
 
 
-{{A}}km\n|={{A}}km\n|
-{{A}}m\n|={{A}}m\n|
+{{A}}km \r\n |={{A}}km \r\n |
+{{A}}m \r\n |={{A}}m \r\n |
 
 {{A}} km/h - Gear -{{B}}={{A}} km/h- 挡位 -{{B}}
 {{A}} km/h - Gear {{B}}={{A}} km/h- 档位 {{B}}
@@ -198,16 +198,16 @@ KПBT=KПBT
 NaN FPS=NaN FPS
 
 WHT HOT=WHT HOT
-A\nP=A\nP
-H\nE=H\nE
-T\nO\nW=T\nO\nW
+A \r\n P=A \r\n P
+H \r\n E=H \r\n E
+T \r\n O \r\n W=T \r\n O \r\n W
 HEAT-T   M{{A}}=HEAT-T   M{{A}}
 APDS-T=APDS-T
 HEP-T=HEP-T
 
 GHPC 20240219= 
 Show / Hide Controls > F1= 
-Show hits only (F5)\n=仅显示命中数（F5）\n
+Show hits only (F5) \r\n =仅显示命中数（F5） \r\n 
 Show player involved only (F6)=仅显示玩家参与（F6）
 Screenshot taken: C:\\Users\\SomeUser\\My Documents\\My Games\\GHPC\\Screenshots\\YYYYMMDDThhmmss.png=拍摄的屏幕截图：C:\\Users\\SomeUser\\My Documents\\My Games\\GHPC\\屏幕截图\\YYYYMMDDThhmss.png
 Exclude small caliber (F7)=不包括小口径（F7）
@@ -239,7 +239,7 @@ FXAA=FXAA
 None=None
 Vegetation=植被
 Anisotropic=各向异性
-FPS Cap\n=FPS上限\n
+FPS Cap \r\n =FPS上限 \r\n 
 V-Sync=垂直同步
 SSR=反射质量
   Distance=  距离
@@ -255,7 +255,7 @@ Lights=灯光
 Graphics Options=图形选项
 Low=Low
 Resolution=分辨率
-Texture\n=纹理\n
+Texture \r\n =纹理 \r\n 
 AO=环境光遮蔽
 Fullscreen=全屏
 Windowed=窗口化的
