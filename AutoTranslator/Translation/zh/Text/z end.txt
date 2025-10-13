@@ -155,7 +155,6 @@ You have broken the enemy’s defenses! Our follow on forces will break into the
 You have secured OBJ Canary. The enemy has been reduced and is retreating! \r\n =你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n 
 You have secured OBJ Canary. The enemy has been reduced and is retreating! \r\n Press [End] to view AAR \r\n =你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n 按[End]查看AAR \r\n 
 你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n Press [End] to view AAR \r\n =你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n 按[End]查看AAR \r\n 
-Shot {{B}} of {{C}} \r\n Shooter: M{{D}}A{{E}}+ (PLAYER) \r\n Target: BMP-{{F}}G \r\n Distance: {{G}} m \r\n Ammo: M{{H}} APFSDS-T \r\n Time: {{I}}h:{{J}}m:{{K}}s:{{L}}ms \r\n {{A}}=射击: {{B}}/{{C}} \r\n 射手: M{{D}}A{{E}}+ (玩家) \r\n 目标: BMP-{{F}}G \r\n 距离: {{G}} m \r\n 弹药: M{{H}} APFSDS-T \r\n 时间: {{I}}h:{{J}}m:{{K}}s:{{L}}ms \r\n {{A}}
 你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n Press [Enter] to hide mission results \r\n =你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n 按[Enter]隐藏任务结果 \r\n 
 你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n Press [Enter] to show mission results \r\n =你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n 按[Enter]显示任务结果 \r\n 
 You have secured OBJ Canary. The enemy has been reduced and is retreating! \r\n Press [Enter] to show mission results \r\n =你已经占领目标区域卡纳里。敌军已被削弱，正在撤退！ \r\n 按[Enter]显示任务结果 \r\n 
