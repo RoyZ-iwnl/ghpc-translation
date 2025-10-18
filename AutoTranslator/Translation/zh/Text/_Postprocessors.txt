@@ -247,12 +247,15 @@ controls strut=控制支柱
 stowage bin=储物箱
 access cover=检修口盖
 azimuth drive=方位驱动器
+Azimuth Drive disabled=方位驱动器损坏
 turret ring cover=炮塔环盖
 sponson side=舭板侧
 particulate filter=颗粒物过滤器
 GPS extension=GPS扩展模块
 radio reciever=电台接收器
 radio transmitter-reciever=无线电收发器
+hydraulic accumulator=液压蓄电池
+elevation servo=高度控制系统
 
 campaign
 Faction: US Army\r\n=派系:美军\r\n
