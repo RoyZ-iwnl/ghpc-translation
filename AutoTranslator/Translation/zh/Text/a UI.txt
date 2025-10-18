@@ -61,7 +61,7 @@ Echelon Right=▪▫▫▫↓ 梯队右
 Vee=  V    V形
 Add=添加
 Item=对象
-Add Node=添加路径点
+<b>Add Node</b>=<b>添加路径点</b>
 Remove Node=移除路径点
 Add Modifier=添加指令
 Go Code=行动信号
@@ -578,11 +578,6 @@ Friendly Team=友军队伍
 Team AmmoCaliberAndType=队伍 弹药口径和类型
 Reset to Defaults=重置为默认
 CUSTOMIZE MISSION=自定义任务
-Enemy Anti-Tank Emplacement=敌方反坦克阵地
-Friendly Tank=友方坦克
-Friendly {{A}}mm AP Round=友方{{A}}mm穿甲弹
-Friendly {{A}}mm HEAT Round=友方{{A}}mm破甲弹
-Enemy {{A}}mm AP Round=敌方{{A}}mm穿甲弹
 Campaign mode is work-in-progress. The mode currently serves up a randomized selection of missions with basic mechanics determining the force compositions and victory progress.\n\n&lt;color\="yellow&gt;If you are new to GHPC, we recommend that you play the first several Instant Action missions and the gunnery training scenarios before starting a campaign. Campaign mode is not beginner-friendly.&lt;/color&gt;\n\nCampaign mode will be overhauled in the future, introducing more detail and features. You can learn more on the roadmap section of gunnerheatpc.com.=战役模式仍在开发中。该模式目前提供随机选择的任务，部队构成和胜利进程由基本机制决定。\n\n&lt;color\="yellow&gt;如果您是GHPC的新玩家，我们建议您在开始战役前，先进行前几个即时行动任务和炮术训练场景。战役模式不适合新手。&lt;/color&gt;\n\n战役模式未来将进行全面改革，引入更多细节和功能。您可以在gunnerheatpc.com的路线图部分了解更多信息。
 I Understand=我已了解
 Campaign Mode is a Work in Progress=战役模式仍在开发中
@@ -591,7 +586,7 @@ Campaign Mode is a Work in Progress=战役模式仍在开发中
 <align\="center">OPTICS</align>\n\nToggle Optics > Left Shift\n\nRangefinder / Lase > E\nDump Lead / Delta-D > Left Ctrl + E\nAdjust Range > Left Ctrl + Mouse Wheel or Page Up,Page Down\nReset Range > Left Ctrl + Page Down\n\nReticle Illumination > I\n\nNight Optic / Thermals > T\nNight Illumination > N\nChange Night Vision Mode > Left Ctrl + T=<align\="center">光学设备</align>\n\n切换光学设备 > 左 Shift\n\n测距仪 / 激光 > E\n投射弹道 / Delta-D > 左 Ctrl + E\n调整距离 > 左 Ctrl + 鼠标 滚轮 或 Page Up,Page Down\n重置射程 > 左 Ctrl + Page Down\n\n瞄准镜照明 > I\n\n夜视镜 / 热成像 > T\n夜视照明 > N\n切换夜视模式 > 左 Ctrl + T
 <align\="center">UTILITY</align>\n\nQuick Action Menu > Q\nChange View > C\n\nMap > M\n\nZoom > Mouse Wheel\n\nLet Commander Aim > Space\n\nToggle Mute > '\nScreenshot > F{{A}}\n\nEnd Mission / AAR Mode > End\nX-ray Overlay Toggle > O\n\nMove Map > Middle Mouse Button / Alt + Left Click Drag=<align\="center">实用工具</align>\n\n快速操作菜单 > Q\n切换视角 > C\n\n地图 > M\n\n缩放 > 鼠标 滚轮\n\n让指挥员瞄准 > Space\n\n静音切换 > '\n截图 > F{{A}}\n\n结束任务 / 战报模式 > End\nX光透视切换 > O\n\n移动地图 > 中键 / Alt + 左键拖拽
 <align="center">调试</align>\n\nFree Cam > F{{A}} Free Cam Move > Left Stick ,  Ctrl, Space Free Cam Speed > Mouse Wheel Free Cam FOV > Left Shift + Mouse Wheel Reset Free Cam FOV > Left Stick Button Smooth Free Cam > Right Shoulder Fire in Free Cam > Left Shift + Right Trigger\n\nAdjust Time Scale > \=,-=<align="center">调试</align>\n\n自由相机 > F{{A}}\n\n自由相机移动 > 左摇杆、Ctrl、空格键\n\n自由相机速度 > 鼠标滚轮\n\n自由相机视野 > 左Shift + 鼠标滚轮\n\n重置自由相机视野 > 左摇杆按键\n\n平滑自由相机 > 右键\n\n自由相机开火 > 左Shift + 右键\n\n调整时间比例 > \=、-
-
+- Adjust your platoon's plan of attack.\n- Select a platoon and add nodes with left control + left click.\n- Add modifiers to nodes to change their behavior by right clicking a node.\n- Plans can be modified during the mission.\n- Move the map using Middle Mouse Button or  Alt + Left Click Drag=- 调整小队计划/攻击方式。\n- 选择小队后，按住左Ctrl+左键点击可添加节点。\n- 右键点击节点编辑其行为。\n- 任务进行中可修改计划。\n- 使用中键或Alt+左键拖拽移动地图。
 GHPC {{A}}*=GHPCMM{{A}}*
 
 
