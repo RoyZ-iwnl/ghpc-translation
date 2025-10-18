@@ -446,7 +446,83 @@ Hit battery\r\n=击中蓄电池\r\n
 Penetrated battery\r\n=穿透蓄电池\r\n
 Stopped by battery\r\n=停止于蓄电池\r\n
 Ricocheted off of battery\r\n=反弹于蓄电池\r\n
+azimuth drive\r\n=方位驱动器\r\n
+Hit azimuth drive\r\n=击中方位驱动器\r\n
+Penetrated azimuth drive\r\n=穿透方位驱动器\r\n
+Stopped by azimuth drive\r\n=停止于方位驱动器\r\n
+Ricocheted off of azimuth drive\r\n=反弹于方位驱动器\r\n
+turret ring cover\r\n=炮塔环盖\r\n
+Hit turret ring cover\r\n=击中炮塔环盖\r\n
+Penetrated turret ring cover\r\n=穿透炮塔环盖\r\n
+Stopped by turret ring cover\r\n=停止于炮塔环盖\r\n
+Ricocheted off of turret ring cover\r\n=反弹于炮塔环盖\r\n
+access cover\r\n=检修口盖\r\n
+Hit access cover\r\n=击中检修口盖\r\n
+Penetrated access cover\r\n=穿透检修口盖\r\n
+Stopped by access cover\r\n=停止于检修口盖\r\n
+Ricocheted off of access cover\r\n=反弹于检修口盖\r\n
+stowage bin\r\n=储物箱\r\n
+Hit stowage bin\r\n=击中储物箱\r\n
+Penetrated stowage bin\r\n=穿透储物箱\r\n
+Stopped by stowage bin\r\n=停止于储物箱\r\n
+Ricocheted off of stowage bin\r\n=反弹于储物箱\r\n
+Hit controls strut\r\n=击中控制支柱\r\n
+Penetrated controls strut\r\n=穿透控制支柱\r\n
+Stopped by controls strut\r\n=停止于控制支柱\r\n
+Ricocheted off of controls strut\r\n=反弹于控制支柱\r\n
+controls strut\r\n=控制支柱\r\n
+Hit slip ring cover\r\n=击中滑环盖\r\n
+Penetrated slip ring cover\r\n=穿透滑环盖\r\n
+Stopped by slip ring cover\r\n=停止于滑环盖\r\n
+Ricocheted off of slip ring cover\r\n=反弹于滑环盖\r\n
+slip ring cover\r\n=滑环盖\r\n
+Hit hydraulic reservoir\r\n=击中液压油箱\r\n
+Penetrated hydraulic reservoir\r\n=穿透液压油箱\r\n
+Stopped by hydraulic reservoir\r\n=停止于液压油箱\r\n
+Ricocheted off of hydraulic reservoir\r\n=反弹于液压油箱\r\n
+hydraulic reservoir\r\n=液压油箱\r\n
+Hit accumulator\r\n=击中蓄电池\r\n
+Penetrated accumulator\r\n=穿透蓄电池\r\n
+Stopped by accumulator\r\n=停止于蓄电池\r\n
+Ricocheted off of accumulator\r\n=反弹于蓄电池\r\n
+accumulator\r\n=蓄电池\r\n
+Hit sponson side\r\n=击中舭板侧\r\n
+Penetrated sponson side\r\n=穿透舭板侧\r\n
+Stopped by sponson side\r\n=停止于舭板侧\r\n
+Ricocheted off of sponson side\r\n=反弹于舭板侧\r\n
+sponson side\r\n=舭板侧\r\n
+Hit particulate filter\r\n=击中颗粒物过滤器\r\n
+Penetrated particulate filter\r\n=穿透颗粒物过滤器\r\n
+Stopped by particulate filter\r\n=停止于颗粒物过滤器\r\n
+Ricocheted off of particulate filter\r\n=反弹于颗粒物过滤器\r\n
+particulate filter\r\n=颗粒物过滤器\r\n
+Hit GPS extension\r\n=击中GPS扩展模块\r\n
+Penetrated GPS extension\r\n=穿透GPS扩展模块\r\n
+Stopped by GPS extension\r\n=停止于GPS扩展模块\r\n
+Ricocheted off of GPS extension\r\n=反弹于GPS扩展模块\r\n
+GPS extension\r\n=GPS扩展模块\r\n
+Hit radio reciever\r\n=击中电台接收器\r\n
+Penetrated radio reciever\r\n=穿透电台接收器\r\n
+Stopped by radio reciever\r\n=停止于电台接收器\r\n
+Ricocheted off of radio reciever\r\n=反弹于电台接收器\r\n
+radio reciever\r\n=电台接收器\r\n
+Hit radio transmitter-reciever\r\n=击中无线电收发器r\n
+Penetrated radio transmitter-reciever\r\n=穿透无线电收发器\r\n
+Stopped by radio transmitter-reciever\r\n=停止于无线电收发器\r\n
+Ricocheted off of radio transmitter-reciever\r\n=反弹于无线电收发器\r\n
+radio transmitter-reciever\r\n=无线电收发器\r\n
 
+Hit radio transmitter-reciever\r\n=击中无线电收发器r\n
+Penetrated radio transmitter-reciever\r\n=穿透无线电收发器\r\n
+Stopped by radio transmitter-reciever\r\n=停止于无线电收发器\r\n
+Ricocheted off of radio transmitter-reciever\r\n=反弹于无线电收发器\r\n
+radio transmitter-reciever\r\n=无线电收发器\r\n
+
+
+
+
+
+coax\r\n=同轴\r\n
 
 Penetrated tree\r\n=穿透树\r\n
 Hit terrain\r\n=击中地面\r\n
@@ -464,6 +540,7 @@ Stopped by =停止于
 Ricocheted off of =反弹于
 Detonated on =引爆于
 Crushed by =粉碎于
+spall=剥落
 
 Entered fighting compartment\r\n=进入战斗舱\r\n
 Entered turret compartment\r\n=进入炮塔舱\r\n
@@ -532,6 +609,9 @@ jaw\r\n=下巴\r\n
 neck\r\n=颈部\r\n
 left arm\r\n=左臂\r\n
 right arm\r\n=右臂\r\n
+hand\r\n=手\r\n
+gun\r\n=枪炮\r\n
+ballistic computer\r\n=弹道计算机\r\n
 left hand\r\n=左手\r\n
 right hand\r\n=右手\r\n
 torso\r\n=躯干\r\n
@@ -1859,5 +1939,5 @@ Press [Enter] to show mission results\n=按[Enter]显示任务结果\n\n
  *= *
 
 
-
-
+Twin ATGM Launchers=双联反坦克导弹发射器
+Launchers=发射器

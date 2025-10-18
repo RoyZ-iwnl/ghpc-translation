@@ -1,4 +1,6 @@
-﻿The company's mission is to take Objective Apple. You are {{A}}st platoon. Your mission is to support the right side of the company's movement. {{B}}nd Pltn's tanks will escort {{C}}th Pltn's apcs to attack OBJ Apple. Our recon reports IFVs, APCs, and atgm teams have been spotted in the area.. It is expected that you will encounter enemy tanks once engaged with the light forces.=连队的任务是占领目标区域 Apple。你是{{A}}排，你的任务是协助连队转移的右翼。{{B}}排的坦克将护送{{C}}排的APC攻击目标区域 Apple。我们的侦察报告称，在该地区发现了IFV，APC和ATGM小组。一旦与轻型部队交战，预计你会遇到敌军的坦克。
+﻿
+
+The company's mission is to take Objective Apple. You are {{A}}st platoon. Your mission is to support the right side of the company's movement. {{B}}nd Pltn's tanks will escort {{C}}th Pltn's apcs to attack OBJ Apple. Our recon reports IFVs, APCs, and atgm teams have been spotted in the area.. It is expected that you will encounter enemy tanks once engaged with the light forces.=连队的任务是占领目标区域 Apple。你是{{A}}排，你的任务是协助连队转移的右翼。{{B}}排的坦克将护送{{C}}排的APC攻击目标区域 Apple。我们的侦察报告称，在该地区发现了IFV，APC和ATGM小组。一旦与轻型部队交战，预计你会遇到敌军的坦克。
 The company's mission is to take Objective Box. You are {{A}}st platoon. Your mission is to support {{B}}th Pltn's APC assault on OBJ Can. When OBJ Can is clear, you are to move with the company to clear out OBJ Box. Our recon reports only acps and atgm teams are visible. It is expected that you will encounter enemy tanks and IFVs once engaged with the light forces. =连队的任务是占领目标区域 BOX。你是{{A}}排。你的任务是协助{{B}}排的APC对目标区域 Can的攻击。当目标区域 Can清除后，你将与连队一起清除目标区域 Box。我们的侦察报告只有APC和ATGM小组可见。一旦与轻型部队交战，预计你会遇到敌军的坦克和IFV。
 The company's mission is to take OBJ Canary. Your mission is to support right side of the company's movement. {{A}}nd Pltn's tanks will escort {{B}}th Pltn's APCs to attack OBJ Canary.=连队的任务是占领目标区域 卡纳里。你的任务是协助连队右翼的转移。{{A}}排的坦克将护送{{B}}排的装甲运兵车攻击目标区域 卡纳里。
 The company's mission is to take the high ground above OBJ Python. Your mission is to push with the company to WP{{A}}. Then guard the flank of {{B}}th platoon from your WP{{C}} when they set up on their WP{{D}} and engage targets in OBJ Python. Enemy forces are expected on our route and in depth by OBJ Anaconda.=连队的任务是占领目标区域 派森之上的高地。你的任务是与连队一起前进到WP{{A}}。然后，当他们在WP{{D}}准备好并与目标区域 派森中的敌军交战时，从你的WP{{C}}防守{{B}}排的侧翼。预计敌军会在我们目标区域 阿康纳达的路线和纵深部署。
@@ -172,10 +174,12 @@ Shot=射击:
  Target\n=靶\n
  Tracer= 曳光
  tracer= 曳光
-
+BLK HOT=黑热
+WHT HOT=白热
 Hydra rocket=九头蛇火箭弹
 Launcher=发射器
 Fagot=巴松管
+Kornet=短号
 Konkurs=竞赛
 Malyutka=婴儿
 Bastion=堡垒
@@ -185,11 +189,12 @@ Invar=殷钢
 Falanga=方阵
 Kokon=茧
 Grom=雷霆
-Twin ATGM Launchers=双联反坦克导弹发射器
+Twin=双联
 TOW launcher=TOW发射器
 Team Infantry=队伍步兵
 Friendly IFV=友军步兵战车
 Friendly Attack Helicopter=友军攻击直升机
+
 
 Artillery HE shell=火炮高爆弹
  shell=弹
@@ -234,6 +239,20 @@ belt=弹链
  (LEADER)=（指挥）
  (PLATOON LEADER)=（排长）
 
+
+accumulator=蓄电池
+hydraulic reservoir=液压油箱
+slip ring cover=滑环盖
+controls strut=控制支柱
+stowage bin=储物箱
+access cover=检修口盖
+azimuth drive=方位驱动器
+turret ring cover=炮塔环盖
+sponson side=舭板侧
+particulate filter=颗粒物过滤器
+GPS extension=GPS扩展模块
+radio reciever=电台接收器
+radio transmitter-reciever=无线电收发器
 
 campaign
 Faction: US Army\r\n=派系:美军\r\n
@@ -444,7 +463,7 @@ Thanks for playing!=感谢游玩！
 \r\n\r\n=\r\n
 .\n\r\n=.\r\n
 : \n\r\n=: \r\n
-
+spall=剥落
 Situation=情况
 Enemy=敌军
 Friendly=友军
@@ -499,4 +518,3 @@ Consolidate at=集合于
 Capture=夺取
 Take Objective=夺取目标
 Take control of=控制
-or=或
