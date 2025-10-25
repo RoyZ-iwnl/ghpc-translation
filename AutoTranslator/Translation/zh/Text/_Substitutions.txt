@@ -920,6 +920,7 @@ gun turret face\r\n=炮塔颊部\r\n
 gun turret drive control box\r\n=炮塔驱动控制盒\r\n
 gun turret drive gears\r\n=炮塔驱动齿轮\r\n
 gun turret drive\r\n=炮塔驱动\r\n
+gun turret drive=炮塔驱动
 gun turret ring\r\n=炮塔座圈\r\n
 gun turret ring collar\r\n=炮塔环领\r\n
 gun turret bottom\r\n=炮塔底部\r\n
@@ -1984,3 +1985,6 @@ Press [Enter] to show mission results\n=按[Enter]显示任务结果\n\n
 
 Twin ATGM Launchers=双联反坦克导弹发射器
 Launchers=发射器
+cannon=机炮
+{{C}}mm Cannon GAU-{{D}}/U Equalizer={{C}}mm 机炮 GAU-{{D}}/U 平衡器
+Equalizer=平衡器
