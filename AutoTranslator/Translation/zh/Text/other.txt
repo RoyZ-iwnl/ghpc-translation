@@ -174,6 +174,7 @@ Patron Preview=赞助人预览
 {{A}}XX{{B}}={{A}}XX{{B}}
 Please note that the game is a work in progress and all aspects are subject to change during future development.=Please note that the game is a work in progress and all aspects are subject to change during future development.
 <align\="center">VEHICLE</align>\n\nChange Vehicle > {0}\n\nDrive > {1}\n\nAim > {2}\nFire > {3}\n\nCruise Control Up > {4}\nCruise Control Down > {5}\n\nAmmo type > {6}\nStabilizer > {7}\nPrevious Weapon > {8}\nNext Weapon > {9}\n\nSmoke Grenades > {10}\nSmoke Screen > {11}=<align\="center">车辆</align>\n\nChange Vehicle > {0}\n\nDrive > {1}\n\nAim > {2} Fire > {3}\n\nCruise Control Up > {4} Cruise Control Down > {5}\n\nAmm  o type > {6} Stabilizer > {7} Previous Weapon > {8} Next Weapon > {9}\n\nSmoke Grenades > {10} Smoke Screen > {11}
+<align\="center">UTILITY</align>\n\nQuick Action Menu > {0}\nChange View > {1}\n\nMap > {2}\nBriefing > {3}\n\nZoom > {4}\n\nLet Commander Aim > {5}\n\nToggle Mute > {6}\nScreenshot > {7}\n\nEnd Mission / AAR Mode > {8}\nX-ray Overlay Toggle > {9}=<align\="center">U</align>\n\nQuick Action Menu > {0} Change View > {1}\n\nMap > {2} Briefing > {3}\n\nZoom > {4}\n\nLet Comm  ander Aim > {5}\n\nToggle Mute > {6} Screenshot > {7}\n\nEnd Mission / AAR Mode > {8} X-ray Overlay Toggle > {9}
 <align\="center">OPTICS</align>\n\nToggle Optics > {0}\n\nRangefinder / Lase > {1}\nDump Lead / Delta-D > {2}\nAdjust Range > {3}\nReset Range > {4}\n\nReticle Illumination > {5}\n\nNight Optic / Thermals > {6}\nNight Illumination > {7}=<align\="center">光学</align>\n\nToggle Optics > {0}\n\nRangefinder / Lase > {1} Dump Lead / Delta-D > {2} Adjust Range > {3} Reset Range > {4}\n\nReticle Illumination > {5}\n\nNight Optic / Thermals > {6} Night Illumination > {7}
 <align\="center">DEBUG</align>\n\nFree Cam > {0}\nFree Cam Move > {1}\nFree Cam Speed > {2}\nFree Cam FOV > {3}\nReset Free Cam FOV > {4}\nSmooth Free Cam > {5}\nFire in Free Cam > {6}\n\nAdjust Time Scale > {7}=<align\="center">调试</align>\n\nFree Cam > {0} Free Cam Move > {1} Free Cam Speed > {2} Free Cam FOV > {3} Reset Free Cam FOV > {4} Smooth Free Cam > {5} Fire in Free Cam > {6}\n\nAdjust Time Scale > {7}
 <align\="center">车辆</align>\n\nChange Vehicle > Tab\n\nDrive > WASD\n\nAim > Right Mouse Button Fire > Left Mouse Button\n\nCruise Control Up > Keypad + Cruise Control Down > Keypad -\n\nAmm  o type > 1,2,3,4 Stabilizer > V Previous Weapon > [ Next Weapon > F\n\nSmoke Grenades > G Smoke Screen > Ctrl + G=<align\="center">车辆</align>\n\nChange Vehicle > Tab\n\nDrive > WASD\n\nAim > Right Mouse Button Fire > Left Mouse Button\n\nCruise Control Up > Keypad + Cruise Control Down > Keypad -\n\nAmm    o type > 1,2,3,4 Stabilizer > V Previous Weapon > [ Next Weapon > F\n\nSmoke Grenades > G Smoke Screen > Ctrl + G
@@ -181,8 +182,6 @@ Please note that the game is a work in progress and all aspects are subject to c
 Winner: {{{A}}}=Winner: {{{A}}}
 <align\="center">VEHICLE</align>\n\nChange Vehicle > Back Quote\n\nDrive > WASD\n\nAim > Right Mouse Button\nFire > Left Mouse Button\n\nCruise Control Up > Keypad +\nCruise Control Down > Keypad -\n\nAmmo type > 1,2,3,4\nStabilizer > V\nPrevious Weapon > [\nNext Weapon > F\n\nSmoke Grenades > G\nSmoke Screen > Ctrl + G=<align\="center">车辆</align>\n\n更改车辆>返回报价\n驱动器>WASD\n瞄准>鼠标右键\n火>鼠标左键\n巡航控制向上>键盘+\n巡航控制向下>键盘-\n弹药类型>1,2,3,4\n稳定器>V\n上一个武器>[\n下一个武器>F\n烟雾弹>G\n烟雾屏>Ctrl+G
 <align\="center">车辆</align>\n\nChange Vehicle > Back Quote\n\nDrive > WASD\n\nAim > Right Mouse Button Fire > Left Mouse Button\n\nCruise Control Up > Keypad + Cruise Control Down > Keypad -\n\nAmm  o type > 1,2,3,4 Stabilizer > V Previous Weapon > [ Next Weapon > F\n\nSmoke Grenades > G Smoke Screen > Ctrl + G=<align\="center">车辆</align>\n\n更改车辆>返回报价\n驱动器>WASD\n瞄准>鼠标右键射击>鼠标左键\n巡航控制向上>键盘+巡航控制向下>键盘-\n弹药类型>1,2,3,4稳定器>V上一件武器>[下一件武器>F\n烟雾弹>G烟雾屏幕>Ctrl+G
-<align\="center">UTILITY</align>\n\nQuick Action Menu > Q\nChange View > C\n\nMap > M\n\nZoom > Mouse Wheel\n\nLet Commander 瞄准 > Space\n\nToggle Mute > '\nScreenshot > F{{A}}\n\nEnd 任务 / AAR Mode > End\nX-ray Overlay Toggle > O\n\nMove Map > Middle 鼠标 Button / Alt + 左 Click Drag=<align\="center">实用工具</align>\n\n快速操作菜单 > Q\n切换视角 > C\n\n地图 > M\n\n缩放 > 鼠标 滚轮\n\n让指挥员瞄准 > Space\n\n静音切换 > '\n截图 > F{{A}}\n\n结束任务 / 战报模式 > End\nX光透视切换 > O\n\n移动地图 > 中键 / Alt + 左键拖拽
-
 Move to Waypoint {{A}}=移动到路径点{{A}}
 AI Platoon=AI排
 Rescue Bravo {{A}}=救援布拉沃 {{A}}
@@ -206,7 +205,7 @@ EN PL PLUS=敌排(+)
 
 Enemy ATGM Team=敌方ATGM小队
 
-Position Ulrich=位置 Ulrich
+Position Ulrich=位置 乌尔里希
 
 
 BP{{A}}=BP{{A}}
@@ -305,6 +304,7 @@ Your force has been destroyed. \nDancing Devils\n=您的部队已被摧毁。\n�
 The tank platoon is in position to counterattack!=坦克排已就位准备反击！
 The attack has been repelled!\n=攻击已被击退！\n
 The attack has been repelled!\nBMP Barricade\n=攻击已被击退！\nBMP路障\n
+Pact forces have achieved victory\n=华约阵营获胜\n
 {{A}}st Section={{A}}分队
 {{A}}nd Section={{A}}分队
 Friendly Scout=友方侦察力量
@@ -394,15 +394,8 @@ Enemy Team=敌军
 Enemy Transport=敌军卡车
 Friendly Infantry=友方步兵
 Enemy Infantry=敌方步兵
-Friendly IFV=友军步兵战车
-Friendly Attack Helicopter=友军攻击直升机
-Friendly Scout Helicopter=友军侦察直升机
-Enemy Scout Helicopter=敌军侦察直升机
 West German Army=西德联邦国防军
-Occupy position Ulrich=占领目标Ulrich
-OBJ Emil is clear. {{A}}st Company is moving to assault and hold position Ulrich=目标区域Emil已经净空. {{A}}连正在突击并坚守Ulrich
-Wait for the rest of the company to join you, and follow them in the attack.=等待连队其他力量加入，然后跟随他们发起进攻。
-Sieze OBJ Friedrich with IFVs=伴随步战车占领目标区域Friedrich
+DM{{A}} APFSDS-T=DM{{A}} APFSDS-T
 Table Salt Part {{A}} of {{B}} *=食盐行动 第 {{A}}/{{B}} *
 Move to dismount point=前往下车点
 Execute plan Bravo - halt and disembark! =执行计划B - 停车下车！
@@ -414,14 +407,9 @@ Execute plan Alpha - halt and disembark! =执行计划A - 停车下车！
 {{Z}}{{Y}}{{b}}{{[}}{{\\}}炮塔舱室\n{{L}}{{Q}}{{W}}{{E}}{{X}}高爆弹药箱\n{{Y}}高爆弹药箱\n{{Y}}{{a}}{{X}}机枪弹药箱\n{{Y}}机枪弹药箱\n{{J}}{{C}}{{A}}{{Y}}{{]}}{{^}}{{T}}{{V}}{{R}}{{X}}穿甲弹药箱\n{{G}}{{X}}{{`}}{{F}}{{X}}{{_}}{{M}}{{O}}{{P}}{{Y}}{{`}}{{B}}{{Y}}穿甲弹药箱\n{{U}}{{H}}{{I}}{{K}}{{N}}{{Y}}{{_}}{{X}}仰角传动杆\n{{Y}}仰角传动杆\n{{D}}{{S}}
 所有华约部队已被压制\nRoad Not Taken\n=所有华约部队已被压制\nRoad Not Taken\n
 Sweep route=清扫路线
-Screen for enemy patrols=侦察敌方巡逻队
-Fall back to BP{{A}}=后撤至战斗阵地{{A}}
-Repel forward security element=抵御敌前沿警卫分队
 Convoy is advancing to CP {{A}}=车队正在向CP {{A}}推进
 CP {{A}}=检查点{{A}}
-Good work - fall back to BP {{A}}!=漂亮！- 现在撤退至战斗阵地 {{A}}!
 Start Point=起始点
-It seems the first echelon is neutralized - fall back to BP {{A}}!=第一梯队似乎已被消灭——撤退至战斗阵地{{A}}
 Release Point=释放点
 The route is clear of enemies\n=路线已清除敌军\n
 The route is clear of enemies\nHighway Patrol\n=路线已清除敌军\nHighway Patrol\n
@@ -435,8 +423,6 @@ You have destroyed the enemy attack! They are retreating!\nDancing Devils\n=您�
 - Consolidate at RP SHURA=- 在集合点SHURA会和
 Leopard A{{A}}A{{B}} Training Range=Leopard A{{A}}A{{B}} 训练场
 Marder {{A}} Training Range=Marder {{A}} 训练场
-Defeat enemy main body=抵御敌军主力部队
-Destroy enemy Motor Rifle Company=摧毁敌军摩托化步兵连
 Player=玩家
 Winner: Player=获胜者: 玩家
 Enemy=敌军
@@ -445,16 +431,9 @@ You have destroyed the main enemy attack!\nDon't Wither Part {{A}}\n=您已摧�
 Move to WP {{A}}=前往WP {{A}}
 OBJ Juliet=目标Juliet
 M{{A}} Illumination=M{{A}} 照明弹
-Dismount Point=卸载点
-{{A}}nd Platoon is moving to the dismount point={{A}}排正在移动至步兵卸载点
-{{A}}nd Platoon is dismounting and assaulting={{A}}排步兵正在卸载并突击
-{{A}}nd Platoon is moving to attack Objective Yellow={{A}}排正在前进并进攻目标Yellow
-Infantry (Troops)=步兵 (部队)
-Single Unit=单个单位
 Halt and wait for the infantry to dismount=停止并等待步兵下车
 Your infantry are moving out. Support their attack on OBJ Romeo=您的步兵正在出动。支援他们对目标Romeo的攻击
 Take OBJ Romeo=夺取目标Romeo
-The enemy has been defeated!\n=敌军已被击溃!\n
 Attack OBJ Juliet=攻击目标Juliet
 Friendly tanks are moving to their BPs=友军坦克正在前往他们的战位
 OBJ Romeo has been cleared. Attack the enemy on OBJ Juliet=目标Romeo已被清除。攻击目标Juliet上的敌军
@@ -477,6 +456,8 @@ YOUR ATTACK HAS BEEN DEFEATED!\n=您的攻击已被击败！\n
 &lt;s&gt;在集结点 SHURA会和&lt;/s&gt;=&lt;s&gt;在集结点 SHURA会合&lt;/s&gt;
 All Player forces have been neutralized\n=所有玩家部队已被消灭\n
 你的进攻已被挫败!\n地面塞车 {{A}} (Customized)\n=您的攻击已被击败！\n地面塞车 {{A}} (自定义)\n
+The second echelon has arrived to reinforce you!=第二梯队已抵达前来增援！
+Secure position for follow-on forces=为后续部队确保阵地安全
 Winner: Enemy=获胜方: 敌军
 APC=装甲运兵车
 Tank=坦克
@@ -894,9 +875,11 @@ Support the friendly attack=协助友军进攻
 OBJ Gold=目标区域 Gold
 OBJ Yellow=目标区域 Yellow
 Scouts: Oh fuck, driver ba=侦察：哦,操,驾驶完了.
-
+- Secure position for follow-on forces=- 为后续部队确保阵地安全
+- Raid support area=- 突袭敌方给养区域
 {{A}}nd Pltn: I am in position and covering. {{B}}st Pltn is cleared to move to WP{{C}}={{A}}排:我排已就位并正在掩护. {{B}}排正准备前往WP{{C}}
 OBJ Husky=目标区域 赫斯基
+Raid support area=突袭敌方给养区域
 This is C{{A}}, we got enough of them, we are withdrawing! Cover our withdrawl then follow us out!=这里是C{{A}},我们撑不住了,正在撤离!掩护我们撤退，然后跟着我们离开!
 Withdraw with the M{{A}}s=和M{{A}}撤离
 CO: {{A}}nd & {{B}}rd Platoon are conducting their attack on OBJ Yellow now.=CO: {{A}}排& {{B}}排正在对目标区域 Yellow进攻.

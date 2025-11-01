@@ -66,7 +66,7 @@ Remove Node=移除路径点
 Add Modifier=添加指令
 Go Code=行动信号
 Submenu=子菜单
-Modify Node=路径点之林
+Modify Node=路径点编辑
 Wait For Node=等待路径点
 Set Vehicle Speed=设置载具速度
 Set Spacing=设置编队间隔
@@ -301,6 +301,7 @@ B R=B R
 K=K
 
 
+WHT HOT=WHT HOT
 A\nP=A\nP
 H\nE=H\nE
 T\nO\nW=T\nO\nW
@@ -326,7 +327,7 @@ Exclude fire support (F8)=不包括火力支援（F8）
 No shots fired for AAR=没有射击来AAR
 Completed in {{A}}h:{{B}}m:{{C}}s=完成时间：{{B}}m:{{C}}s
 Screenshot taken: C:\\Users\\SomeUser\\My Documents\\My Games\\GHPC\\Screenshots\\YYYYMMDDThhmmss.png=获取的屏幕截图：C:\\Users\\SomeUser\\My Documents\\My Games\\GHPC\\Screenshots\YYYYMMDDThhmss.png
-
+- Adjust your platoon's plan of attack.\n- Select a platoon and add nodes with left control + left click.\n- Add modifiers to nodes to change their behavior by right clicking a node.\n- Plans can be modified during the mission.\n- Move the map using Left Click Drag=- 调整小队计划/攻击方式。\n- 选择小队后，按住左Ctrl+左键点击可添加节点。\n- 右键点击节点编辑其行为。\n- 任务进行中可修改计划。\n- 使用鼠标左键拖拽移动地图
 
 setting
 Game Options=游戏选项
@@ -583,10 +584,9 @@ Campaign Mode is a Work in Progress=战役模式仍在开发中
 <align="center">VEHICLE</align>\n\nChange Vehicle > {{{A}}}\n\nDrive > {{{B}}}\n\nAim > {{{C}}}\nFire > {{{D}}}\nReload > {{{E}}}\n\nCruise Control Up > {{{F}}}\nCruise Control Down > {{{G}}}\n\nAmmo type > {{{H}}}\nStabilizer > {{{I}}}\nPrevious Weapon > {{{J}}}\nNext Weapon > {{{K}}}\n\nSmoke Grenades > {{{L}}}\nSmoke Screen > {{{M}}}=<align="center">载具</align>\n\n切换载具 > {{{A}}}\n\n驾驶 > {{{B}}}\n\n瞄准 > {{{C}}}\n开火 > {{{D}}}\n装填 > {{{E}}}\n\n巡航控制上调 > {{{F}}}\n巡航控制下调 > {{{G}}}\n\n弹药类型 > {{{H}}}\n稳定器 > {{{I}}}\n上一武器 > {{{J}}}\n下一武器 > {{{K}}}\n\n烟雾弹 > {{{L}}}\n烟幕 > {{{M}}}
 <align="center">UI</align>\n\nQuick Action Menu > Q Change View > Left Trigger\n\nMap > Guide Briefing > \n\nZoom > Mouse Wheel or Right Stick Button\n\nLet Commander Aim > Y\n\nToggle Mute > ' Screenshot > F{{A}}\n\nEnd Mission / AAR Mode > End X-ray Overlay Toggle > O=<align="center">界面</align>\n\n快速行动菜单 > Q 切换视角 > 左扳机键\n\n地图 > 引导 简报 > \n\n缩放 > 鼠标滚轮或右摇杆按键\n\n让指挥员瞄准 > Y\n\n切换静音 > ' 截屏 > F{{A}}\n\n结束任务/AAR模式 > End X射线覆盖切换 > O
 <align\="center">OPTICS</align>\n\nToggle Optics > Left Shift\n\nRangefinder / Lase > E\nDump Lead / Delta-D > Left Ctrl + E\nAdjust Range > Left Ctrl + Mouse Wheel or Page Up,Page Down\nReset Range > Left Ctrl + Page Down\n\nReticle Illumination > I\n\nNight Optic / Thermals > T\nNight Illumination > N\nChange Night Vision Mode > Left Ctrl + T=<align\="center">光学设备</align>\n\n切换光学设备 > 左 Shift\n\n测距仪 / 激光 > E\n投射弹道 / Delta-D > 左 Ctrl + E\n调整距离 > 左 Ctrl + 鼠标 滚轮 或 Page Up,Page Down\n重置射程 > 左 Ctrl + Page Down\n\n瞄准镜照明 > I\n\n夜视镜 / 热成像 > T\n夜视照明 > N\n切换夜视模式 > 左 Ctrl + T
+<align\="center">UTILITY</align>\n\nQuick Action Menu > Q\nChange View > C\n\nMap > M\n\nZoom > Mouse Wheel\n\nLet Commander Aim > Space\n\nToggle Mute > '\nScreenshot > F{{A}}\n\nEnd Mission / AAR Mode > End\nX-ray Overlay Toggle > O\n\nMove Map > Middle Mouse Button / Alt + Left Click Drag=<align\="center">实用工具</align>\n\n快速操作菜单 > Q\n切换视角 > C\n\n地图 > M\n\n缩放 > 鼠标 滚轮\n\n让指挥员瞄准 > Space\n\n静音切换 > '\n截图 > F{{A}}\n\n结束任务 / 战报模式 > End\nX光透视切换 > O\n\n移动地图 > 中键 / Alt + 左键拖拽
 <align="center">调试</align>\n\nFree Cam > F{{A}} Free Cam Move > Left Stick ,  Ctrl, Space Free Cam Speed > Mouse Wheel Free Cam FOV > Left Shift + Mouse Wheel Reset Free Cam FOV > Left Stick Button Smooth Free Cam > Right Shoulder Fire in Free Cam > Left Shift + Right Trigger\n\nAdjust Time Scale > \=,-=<align="center">调试</align>\n\n自由相机 > F{{A}}\n\n自由相机移动 > 左摇杆、Ctrl、空格键\n\n自由相机速度 > 鼠标滚轮\n\n自由相机视野 > 左Shift + 鼠标滚轮\n\n重置自由相机视野 > 左摇杆按键\n\n平滑自由相机 > 右键\n\n自由相机开火 > 左Shift + 右键\n\n调整时间比例 > \=、-
-<align\="center">UTILITY</align>\n\nQuick Action Menu > Q\nChange View > C\n\nMap > M\n\nZoom > Mouse Wheel\n\nLet Commander 瞄准 > Space\n\nToggle Mute > '\nScreenshot > F{{A}}\n\nEnd 任务 / AAR Mode > End\nX-ray Overlay Toggle > O\n\nMove Map > Middle 鼠标 Button / Alt + 左 Click Drag=<align\="center">实用工具</align>\n\n快速操作菜单 > Q\n切换视角 > C\n\n地图 > M\n\n缩放 > 鼠标 滚轮\n\n让指挥员瞄准 > Space\n\n静音切换 > '\n截图 > F{{A}}\n\n结束任务 / 战报模式 > End\nX光透视切换 > O\n\n移动地图 > 中键 / Alt + 左键拖拽
 
-- Adjust your platoon's plan of attack.\n- Select a platoon and add nodes with left control + left click.\n- Add modifiers to nodes to change their behavior by right clicking a node.\n- Plans can be modified during the mission.\n- Move the map using Middle Mouse Button or  Alt + Left Click Drag=- 调整小队计划/攻击方式。\n- 选择小队后，按住左Ctrl+左键点击可添加节点。\n- 右键点击节点编辑其行为。\n- 任务进行中可修改计划。\n- 使用中键或Alt+左键拖拽移动地图。
 GHPC {{A}}*=GHPCMM{{A}}*
 
 
