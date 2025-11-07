@@ -43,6 +43,7 @@ Combat Team=战斗小队
 Main Effort=主要工作
 Superior Firepower=超强火力
 PACT Partnership=华约合作
+Pact Partnership=华约合作
 Retro Rumble Part 1 of 2=复古混战 1/2
 Retro Rumble Part 2 of 2=复古混战 2/2
 
