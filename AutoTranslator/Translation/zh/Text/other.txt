@@ -174,7 +174,6 @@ Patron Preview=赞助人预览
 {{A}}XX{{B}}={{A}}XX{{B}}
 Please note that the game is a work in progress and all aspects are subject to change during future development.=Please note that the game is a work in progress and all aspects are subject to change during future development.
 <align\="center">VEHICLE</align>\n\nChange Vehicle > {0}\n\nDrive > {1}\n\nAim > {2}\nFire > {3}\n\nCruise Control Up > {4}\nCruise Control Down > {5}\n\nAmmo type > {6}\nStabilizer > {7}\nPrevious Weapon > {8}\nNext Weapon > {9}\n\nSmoke Grenades > {10}\nSmoke Screen > {11}=<align\="center">车辆</align>\n\nChange Vehicle > {0}\n\nDrive > {1}\n\nAim > {2} Fire > {3}\n\nCruise Control Up > {4} Cruise Control Down > {5}\n\nAmm  o type > {6} Stabilizer > {7} Previous Weapon > {8} Next Weapon > {9}\n\nSmoke Grenades > {10} Smoke Screen > {11}
-<align\="center">UTILITY</align>\n\nQuick Action Menu > {0}\nChange View > {1}\n\nMap > {2}\nBriefing > {3}\n\nZoom > {4}\n\nLet Commander Aim > {5}\n\nToggle Mute > {6}\nScreenshot > {7}\n\nEnd Mission / AAR Mode > {8}\nX-ray Overlay Toggle > {9}=<align\="center">U</align>\n\nQuick Action Menu > {0} Change View > {1}\n\nMap > {2} Briefing > {3}\n\nZoom > {4}\n\nLet Comm  ander Aim > {5}\n\nToggle Mute > {6} Screenshot > {7}\n\nEnd Mission / AAR Mode > {8} X-ray Overlay Toggle > {9}
 <align\="center">OPTICS</align>\n\nToggle Optics > {0}\n\nRangefinder / Lase > {1}\nDump Lead / Delta-D > {2}\nAdjust Range > {3}\nReset Range > {4}\n\nReticle Illumination > {5}\n\nNight Optic / Thermals > {6}\nNight Illumination > {7}=<align\="center">光学</align>\n\nToggle Optics > {0}\n\nRangefinder / Lase > {1} Dump Lead / Delta-D > {2} Adjust Range > {3} Reset Range > {4}\n\nReticle Illumination > {5}\n\nNight Optic / Thermals > {6} Night Illumination > {7}
 <align\="center">DEBUG</align>\n\nFree Cam > {0}\nFree Cam Move > {1}\nFree Cam Speed > {2}\nFree Cam FOV > {3}\nReset Free Cam FOV > {4}\nSmooth Free Cam > {5}\nFire in Free Cam > {6}\n\nAdjust Time Scale > {7}=<align\="center">调试</align>\n\nFree Cam > {0} Free Cam Move > {1} Free Cam Speed > {2} Free Cam FOV > {3} Reset Free Cam FOV > {4} Smooth Free Cam > {5} Fire in Free Cam > {6}\n\nAdjust Time Scale > {7}
 <align\="center">车辆</align>\n\nChange Vehicle > Tab\n\nDrive > WASD\n\nAim > Right Mouse Button Fire > Left Mouse Button\n\nCruise Control Up > Keypad + Cruise Control Down > Keypad -\n\nAmm  o type > 1,2,3,4 Stabilizer > V Previous Weapon > [ Next Weapon > F\n\nSmoke Grenades > G Smoke Screen > Ctrl + G=<align\="center">车辆</align>\n\nChange Vehicle > Tab\n\nDrive > WASD\n\nAim > Right Mouse Button Fire > Left Mouse Button\n\nCruise Control Up > Keypad + Cruise Control Down > Keypad -\n\nAmm    o type > 1,2,3,4 Stabilizer > V Previous Weapon > [ Next Weapon > F\n\nSmoke Grenades > G Smoke Screen > Ctrl + G
@@ -316,7 +315,7 @@ Blocking position=阻击阵地
 Frontal group=正面集群
 Flank group=侧翼集群
 Reload or select a new ammunition type=重新装弹或选择新弹药类型
-- Troops!=- 部队！
+- Troops!=- 步兵！
 Support troops at BP Alpha=支援BP Alpha的部队
 CO: Hold Position and Cover {{A}}th platoon's assault on OBJ CAN.=指挥员：坚守阵地并掩护第{{A}}排对目标CAN的突击。
 你已经确保目标区域 Box安全.敌军已被削弱并撤退!\nCompany Attack Crocodile\n=您已确保目标Box安全。敌军已被削弱并撤退！\n连队攻击鳄鱼\n
@@ -331,7 +330,7 @@ Automatic=自动
 Grass Distance=草地距离
 Grass Interact=草地交互
 Density=密度
-  Troops!=  部队！
+  Troops!=  步兵！
 The enemy is retreating. Move to BP Alpha=敌军正在撤退。前往BP Alpha
 Move to BP Alpha=前往BP Alpha
 The enemy is attacking BP Bravo. Move to support troops there=敌军正在攻击BP Bravo。前往支援那里的部队
@@ -458,6 +457,8 @@ YOUR ATTACK HAS BEEN DEFEATED!\n=您的攻击已被击败！\n
 All Player forces have been neutralized\n=所有玩家部队已被消灭\n
 你的进攻已被挫败!\n地面塞车 {{A}} (Customized)\n=您的攻击已被击败！\n地面塞车 {{A}} (自定义)\n
 The second echelon has arrived to reinforce you!=第二梯队已抵达前来增援！
+You have destroyed the enemy armor on the objective!\n{{A}}=你已摧毁目标点上的敌方装甲部队！\n{{A}}
+You have destroyed the enemy armor on the objective!\n=你已摧毁目标点上的敌方装甲部队！!\n
 Secure position for follow-on forces=为后续部队确保阵地安全
 Winner: Enemy=获胜方: 敌军
 APC=装甲运兵车
@@ -877,7 +878,14 @@ OBJ Gold=目标区域 Gold
 OBJ Yellow=目标区域 Yellow
 Scouts: Oh fuck, driver ba=侦察：哦,操,驾驶完了.
 - Secure position for follow-on forces=- 为后续部队确保阵地安全
+- Defend the Town=- 防守小镇
+- Secure Hostile Positions=- 夺取敌方阵地
 - Raid support area=- 突袭敌方给养区域
+You've repelled the enemy reinforcements!\n{{A}}=你已击退敌方增援部队！\n{{A}}
+You've repelled the enemy reinforcements!\n=你已击退敌方增援部队！\n
+Hostile QRF has been rendered combat Ineffective, you've held the town=Hostile QRF has been rendered combat Ineffective, you've held the town=敌方快速响应力量已丧失战斗力，你已成功守住城镇。
+Defend the Town=防守小镇
+Hostile Platoon has been rendered combat ineffective, US QRF are inbound to recapture the town=敌方排已丧失战斗力，美军快速响应力量正前往此处企图夺回城镇。
 {{A}}nd Pltn: I am in position and covering. {{B}}st Pltn is cleared to move to WP{{C}}={{A}}排:我排已就位并正在掩护. {{B}}排正准备前往WP{{C}}
 OBJ Husky=目标区域 赫斯基
 Raid support area=突袭敌方给养区域

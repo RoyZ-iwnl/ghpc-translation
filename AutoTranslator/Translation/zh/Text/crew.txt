@@ -102,6 +102,7 @@
   Steady.= 预备...
 - Steady!=-预备!
   Steady!= 预备!
+  infantry!=  步兵!
 - Identified!=-确认目标!
   Identified!= 锁定目标!
 - Identified PC!=-确认目标,运兵车!
