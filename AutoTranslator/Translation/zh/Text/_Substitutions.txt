@@ -218,6 +218,7 @@ Hit loader's left leg\r\n=击中装填手左腿\r\n
 Hit loader's right leg\r\n=击中装填手右腿\r\n
 Hit loader's left foot\r\n=击中装填手左脚\r\n
 Hit loader's right foot\r\n=击中装填手右脚\r\n
+Hit loader's elbow guard\r\n=击中装填手护肘\r\n
 
 Hit  helmet\r\n=击中步兵头盔\r\n
 Hit soldier's head\r\n=击中步兵头部\r\n
@@ -336,6 +337,7 @@ Penetrated loader's left leg\r\n=穿透装填手左腿\r\n
 Penetrated loader's right leg\r\n=穿透装填手右腿\r\n
 Penetrated loader's left foot\r\n=穿透装填手左脚\r\n
 Penetrated loader's right foot\r\n=穿透装填手右脚\r\n
+Penetrated loader's elbow guard\r\n=穿透装填手护肘\r\n
 
 Penetrated helmet\r\n=穿透步兵头盔\r\n
 Penetrated soldier's skull\r\n=穿透步兵头骨\r\n
@@ -427,7 +429,10 @@ Penetrated turret rim\r\n=穿透炮塔边缘\r\n
 Penetrated turret ring\r\n=穿透炮塔座圈\r\n
 Penetrated turret basket\r\n=穿透炮塔吊篮\r\n
 Penetrated turret traverse motor\r\n=穿透炮塔旋转电机\r\n
-
+Penetrated turret overhang\r\n=穿透炮塔尾部悬垂\r\n
+Penetrated turret radiation liner\r\n=穿透炮塔防辐射衬层\r\n
+Hit turret overhang\r\n=击中炮塔尾部悬垂\r\n
+Hit turret radiation liner\r\n=击中炮塔防辐射衬层\r\n
 Hit optics\r\n=击中光瞄\r\n
 Penetrated optics\r\n=穿透光瞄\r\n
 Stopped by optics\r\n=停止于光瞄\r\n
@@ -623,6 +628,7 @@ jaw\r\n=下巴\r\n
 neck\r\n=颈部\r\n
 left arm\r\n=左臂\r\n
 right arm\r\n=右臂\r\n
+elbow guard\r\n=护肘\r\n
 right hand=右手
 right hand\r\n=右手\r\n
 left hand=左手
@@ -706,7 +712,8 @@ projectile tail\r\n=弹尾\r\n
 long rod penetrator\r\n=长杆穿甲弹\r\n
 tail stabiliser\r\n=稳定尾翼\r\n
 
-
+turret overhang\r\n=炮塔尾部悬垂\r\n
+turret radiation liner\r\n=炮塔防辐射衬层\r\n
 gunsight control box=炮镜控制箱
 gunsight control box\r\n=炮镜控制箱\r\n
 sight extension\r\n=拓展瞄具\r\n
