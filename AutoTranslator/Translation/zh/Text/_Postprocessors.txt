@@ -231,6 +231,7 @@ mm ball=机枪弹
 mm grenade launcher =mm 榴弹发射器 
 launcher=发射器
 belt=弹链
+Proximity=近炸
 
 
  (IN PLATOON)= （当前）
@@ -519,8 +520,9 @@ minus=(-)
 Move to=移动至
 Hold at=坚守
 Destroy=摧毁
-Forward Security Element=前方警戒分队
+Forward Security Element=前沿警戒分队
 Motor Rifle Battalion=摩托化步兵营
+Motor Rifle Company=摩托化步兵连
 Scouts=侦察
 Clear=肃清
 Seize=夺取

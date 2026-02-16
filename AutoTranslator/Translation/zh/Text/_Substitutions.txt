@@ -459,6 +459,7 @@ Penetrated azimuth drive\r\n=穿透方位驱动器\r\n
 Stopped by azimuth drive\r\n=停止于方位驱动器\r\n
 Ricocheted off of azimuth drive\r\n=反弹于方位驱动器\r\n
 Azimuth Drive disabled\n=方位驱动器损坏\n
+Elevation Drive disabled\n=高低机驱动器损坏\n
 turret ring cover\r\n=炮塔环盖\r\n
 Hit turret ring cover\r\n=击中炮塔环盖\r\n
 Penetrated turret ring cover\r\n=穿透炮塔环盖\r\n
