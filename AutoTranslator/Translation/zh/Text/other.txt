@@ -172,6 +172,8 @@ T-{{A}} Sample Unit=T-{{A}} Sample Unit
 Thank you for supporting the GHPC project! Please note that all aspects of this demo are subject to change during future development.\nFeedback welcome!=Thank you for supporting the GHPC project! Please note that all aspects of this demo are subject to change during future development. Feedback welcome!
 Patron Preview=赞助人预览
 {{A}}XX{{B}}={{A}}XX{{B}}
+You've secured both dug in positions with a fair amount of losses, pushing the East Germans back.\n{{A}}=你以相当大的损失夺取了两处挖掘好的阵地，并将东德军队击退。\n{{A}}
+You've secured both dug in positions with a fair amount of losses, pushing the East Germans back.\n=你以相当大的损失夺取了两处挖掘好的阵地，并将东德军队击退。\n
 Please note that the game is a work in progress and all aspects are subject to change during future development.=Please note that the game is a work in progress and all aspects are subject to change during future development.
 <align\="center">VEHICLE</align>\n\nChange Vehicle > {0}\n\nDrive > {1}\n\nAim > {2}\nFire > {3}\n\nCruise Control Up > {4}\nCruise Control Down > {5}\n\nAmmo type > {6}\nStabilizer > {7}\nPrevious Weapon > {8}\nNext Weapon > {9}\n\nSmoke Grenades > {10}\nSmoke Screen > {11}=<align\="center">车辆</align>\n\nChange Vehicle > {0}\n\nDrive > {1}\n\nAim > {2} Fire > {3}\n\nCruise Control Up > {4} Cruise Control Down > {5}\n\nAmm  o type > {6} Stabilizer > {7} Previous Weapon > {8} Next Weapon > {9}\n\nSmoke Grenades > {10} Smoke Screen > {11}
 <align\="center">OPTICS</align>\n\nToggle Optics > {0}\n\nRangefinder / Lase > {1}\nDump Lead / Delta-D > {2}\nAdjust Range > {3}\nReset Range > {4}\n\nReticle Illumination > {5}\n\nNight Optic / Thermals > {6}\nNight Illumination > {7}=<align\="center">光学</align>\n\nToggle Optics > {0}\n\nRangefinder / Lase > {1} Dump Lead / Delta-D > {2} Adjust Range > {3} Reset Range > {4}\n\nReticle Illumination > {5}\n\nNight Optic / Thermals > {6} Night Illumination > {7}
@@ -480,7 +482,7 @@ Secure the First Defence Line=占领第一线防御阵地
 - Destroy Enemy Screen=- 摧毁敌军警戒部队
 - Withdraw with the M{{A}}s=- 与 M{{A}} 部队一同撤退
 - Atrrit enemy forces and then withdraw=- 消耗敌军力量随后撤退
-
+Enemy scouts have been spotted on Axis {{A}}.=敌军侦察已经在进攻轴线{{A}}被发现
 You have been reinforced with a tank platoon=一个坦克排的增援已就位
 - Defend trucks at OBJ TANYA for {{A}} min=- 在目标区域 TANYA 防御卡车 {{A}} 分钟
 First Line has been secured from the East Germans.=第一道防线已从东德军队手中夺取。

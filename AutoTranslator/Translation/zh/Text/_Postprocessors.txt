@@ -192,7 +192,7 @@ TOW launcher=TOW发射器
 Team Infantry=队伍步兵
 Friendly IFV=友军步兵战车
 Friendly Attack Helicopter=友军攻击直升机
-
+25mm Cannon GAU-12/U Equalizer=25mm 机炮 GAU-12/U 平衡者
 
 Artillery HE shell=火炮高爆弹
  shell=弹
@@ -223,7 +223,7 @@ mm Machine Gun =mm 机枪
 mm machine gun =mm 机枪 
 Coaxial gun M=同轴机枪 M
 Coaxial gun MG=同轴机枪
-mm cannon =mm 机炮 
+mm cannon =mm 机炮  
 mm Gun =mm 火炮 
 mm gun =mm 机炮 
 mm guns =mm 机炮 
