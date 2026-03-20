@@ -1087,6 +1087,7 @@ support pillar\r\n=支撑柱\r\n
 storage bin\r\n=存储箱\r\n
 hull ammo storage\r\n=车体弹药储存\r\n
 turret storage box\r\n=炮塔储物箱\r\n
+rear passage\r\n=后门\r\n
 
 turrret stowage\r\n=炮塔储存箱\r\n
 hull radiation liner\r\n=车体辐射衬里\r\n
