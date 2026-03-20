@@ -346,6 +346,9 @@ Screenshot taken: C:\\Users\\SomeUser\\My Documents\\My Games\\GHPC\\Screenshots
 - Adjust your platoon's plan of attack.\n- Select a platoon and add nodes with left control + left click.\n- Add modifiers to nodes to change their behavior by right clicking a node.\n- Plans can be modified during the mission.\n- Move the map using Left Click Drag=- 调整小队计划/攻击方式。\n- 选择小队后，按住左Ctrl+左键点击可添加节点。\n- 右键点击节点编辑其行为。\n- 任务进行中可修改计划。\n- 使用鼠标左键拖拽移动地图
 
 setting
+Toggle Night Sight Polarity=切换夜视极性
+Stance Up=提升姿态
+Stance Down=降低姿态
 Game Options=游戏选项
 Volume=音量
 Game=游戏

@@ -14,7 +14,7 @@ Shattered due to impact angle\r\n=破碎于冲击角度\r\n
 
 {{C}}mm Cannon GAU-{{D}}/U Equalizer\nM{{E}} APFSDS-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} meters={{C}}mm 机炮 GAU-{{D}}/U 平衡者\nM{{E}} APFSDS-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} 米
 {{C}}mm Cannon GAU-{{D}}/U Equalizer\nM{{E}} MPAB-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} meters={{C}}mm 机炮 GAU-{{D}}/U 平衡者\nM{{E}} MPAB-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} 米
-
+APCR-T=APCR-T
 Hit gunner's head\r\nPenetrated gunner's skull\r\nHit gunner's brain\r\n=击中炮手头部\r\n穿透炮手头骨\r\n击中炮手大脑\r\n
 Penetrated gunner's skull\r\nHit gunner's brain\r\n=穿透炮手头骨\r\n击中炮手大脑\r\n
 Hit gunner's head\r\nPenetrated gunner's skull\r\n=击中炮手头部\r\n穿透炮手头骨\r\n
@@ -715,7 +715,12 @@ projectile shell\r\n=炮弹\r\n
 projectile tail\r\n=弹尾\r\n
 long rod penetrator\r\n=长杆穿甲弹\r\n
 tail stabiliser\r\n=稳定尾翼\r\n
-
+protective screen\r\n=保护层\r\n
+seat strut\r\n=座椅支柱\r\n
+floor rack\r\n=底板架\r\n
+radio rack\r\n=无线电机架\r\n
+vehicle accessories\r\n=配件\r\n
+turret networks box\r\n=炮塔网络设备柜\r\n
 turret overhang\r\n=炮塔尾部悬垂\r\n
 turret radiation liner\r\n=炮塔防辐射衬层\r\n
 gunsight control box=炮镜控制箱
@@ -1084,7 +1089,7 @@ hull ammo storage\r\n=车体弹药储存\r\n
 turret storage box\r\n=炮塔储物箱\r\n
 
 turrret stowage\r\n=炮塔储存箱\r\n
-
+hull radiation liner\r\n=车体辐射衬里\r\n
 turret stowage\r\n=炮塔储存箱\r\n
 stowage mount\r\n=存放架\r\n
 storage box\r\n=储物箱\r\n
@@ -1458,6 +1463,7 @@ M85 Machine Gun barrel compromised\n=M85机枪损坏\n
 M{{A}} Machine Gun barrel compromised\n=M{{A}}机枪枪管受损\n
 Coaxial MG breech broken\n=同轴后膛破裂\n
 Coaxial MG baarel broken\n=同轴枪管破裂\n
+Coaxial MG barrel compromised\n=同轴枪管损坏\n
 Launcher barrel compromised\n=发射筒损坏\n
 Main gun guidance unit damaged\n=主炮制导装置损坏\n
 Launcher guidance unit damaged\n=发射制导装置损坏\n
@@ -1577,7 +1583,9 @@ H-11 Target\r\n=H-11靶\r\n
  Target\r\n=靶\r\n
 impenetrable force field\r\n=不可穿透力场\r\n
 target cheese\r\n=目标奶酪\r\n
-
+target_brdm_front\r\n=BRDM形正面靶子\r\n
+{{A}}target_brdm_front\r\n={{A}}BRDM形正面靶子\r\n
+{{A}}target_brdm_front ({{B}})\r\n={{A}}BRDM形正面靶子 ({{B}})\r\n
 
 turret cheek composite array\r\n=炮塔颊部复合阵列\r\n
 reflective plate array\r\n=反射板复合阵列\r\n

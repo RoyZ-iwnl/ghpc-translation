@@ -18,6 +18,9 @@ Help & Support=帮助和支持
 <align\="center">车辆</align>\n\nChange Vehicle > Back Quote\n\nDrive > WASD\n\nAim > Right Mouse Button Fire > Left Mouse Button\n\nCruise Control Up > Keypad + Cruise Control Down > Keypad -\n\nAmm  o type > {{A}} Stabilizer > L Previous Weapon > [ Next Weapon > ]\n\nSmoke Grenades > G Smoke Screen > Ctrl + G=<align\="center">车辆</align>\nChange Vehicle > Back Quote\nDrive > WASD\nAim > Right Mouse Button Fire > Left Mouse Button\nCruise Control Up > Keypad + Cruise Control Down > Keypad -\nAmm  o type > {{A}} Stabilizer > L Previous Weapon > [ Next Weapon > ]\nSmoke Grenades > G Smoke Screen > Ctrl + G
 For further support, please reach out to us at our official <color\=#00B04D><u>Discord channel!</u></color>=如需进一步支持，请联系我们的官方网站 <color\=#00B04D><u>Discord频道！</u></color>
 Scroll Speed: Pg Up/Down<size\=10>\n\n</size>Stop: End<size\=10>\n\n</size>Return: Esc=滚动速度：PgUp/Down<size\=10>\n\n</size>停止：End<size\=10>\n\n</size>返回：Esc
+{{C}}mm Cannon GAU-{{D}}/U Equalizer\nM{{E}} APFSDS-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} meters={{C}}mm 机炮 GAU-{{D}}/U 平衡者\nM{{E}} APFSDS-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} 米
+{{C}}mm Cannon GAU-{{D}}/U Equalizer\nM{{E}} MPAB-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} meters={{C}}mm 机炮 GAU-{{D}}/U 平衡者\nM{{E}} MPAB-T ({{F}} + {{G}})\n{{A}}{{B}}{{H}} 米
+
 ART LEAD=艺术引导
 PATTERN=图案
 AxiiiS\nJosh Busuito\nMajoris=AxiiiS Josh Busuito Majoris
@@ -248,12 +251,18 @@ OBJ OAK=目标区域 橡树
 OAK=橡树
 ASH=灰烬
 SWAMP=沼泽
-
+Clear the Town=肃清城镇
+Clear The Town=肃清城镇
+- Setup Forward Defences=- 建立前沿防御
+- Clear the Town=- 肃清城镇
+{{A}}S{{B}} Artillery WP smoke={{A}}S{{B}} 炮射白磷烟雾弹
+{{A}}S{{B}} Artillery Illumination={{A}}S{{B}} 炮射照明弹
 Destroy enemy forces on the approach to LINK!=摧毁接近LINK的敌军！
 Move to BP{{A}}=移动到BP{{A}}
 {{A}}%={{A}}%
 Occupy BP{{A}} and defeat the enemy recce elements!=占领BP{{A}}并击败敌军侦察人员！
-
+The remains of the Motor Rifle Regiment have been destroyed!\n{{A}}=敌军残余摩托化步兵营已被摧毁!\n{{A}}
+The remains of the Motor Rifle Regiment have been destroyed!\n=敌军残余摩托化步兵营已被摧毁!\n
 Defeat Enemy Recce=击败敌军侦察
 Relocate to BP{{A}}=重新部署至BP{{A}}
 Relocate to BP{{A}} and prepare to defend!=重新部署到BP{{A}}，准备防守！
