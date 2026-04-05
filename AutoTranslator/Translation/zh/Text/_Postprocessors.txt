@@ -233,6 +233,8 @@ mm grenade launcher =mm 榴弹发射器
 launcher=发射器
 belt=弹链
 Proximity=近炸
+enhanced=改进型
+
 
 
  (IN PLATOON)= （当前）
@@ -495,6 +497,8 @@ Apply=应用
 Enemy Team=敌军队伍
 AP Round=穿甲弹
 HEAT Round=破甲弹
+AP\n=AP\n
+HE\n=高爆\n
 ATGM=反坦克导弹
 APC=装甲运兵车
 APCR-T=APCR-T
