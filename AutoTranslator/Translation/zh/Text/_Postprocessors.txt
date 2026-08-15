@@ -517,6 +517,7 @@ Secure OBJ=占领目标区域
 Move to OBJ=移动至目标区域
 Move to BP=移动至战斗阵地
 Hold at BP=坚守战斗阵地
+Scout Section=侦察力量
 Secure=占领
 OBJ=目标区域
 enemy=敌军

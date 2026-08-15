@@ -1052,7 +1052,10 @@ INFIL=渗透
 This is C{{A}}, we are moving to attack the command post!=这里是C{{A}},我们正在前往攻击敌方指挥!
 Press ESC to continue=按ESC继续
 Support the friendly attack=协助友军进攻
-
+Seize Objective Bravo=夺取 OBJ Bravo
+Seize Objective Alpha=夺取 OBJ Alpha
+- Seize Objective Bravo=- 夺取 OBJ Bravo
+- Seize Objective Alpha=- 夺取 OBJ Alpha
 OBJ Gold=目标区域 Gold
 OBJ Yellow=目标区域 Yellow
 Scouts: Oh fuck, driver ba=侦察：哦,操,驾驶完了.
@@ -1060,6 +1063,9 @@ Scouts: Oh fuck, driver ba=侦察：哦,操,驾驶完了.
 - Defend the Town=- 防守小镇
 - Secure Hostile Positions=- 夺取敌方阵地
 - Raid support area=- 突袭敌方给养区域
+- Return to the rally point=- 返回集结点
+- Kill the enemy {{A}}UAZ=- 摧毁敌方{{A}}UAZ
+- Locate enemy HQ=- 确认敌指位置
 You've repelled the enemy reinforcements!\n{{A}}=你已击退敌方增援部队！\n{{A}}
 You've repelled the enemy reinforcements!\n=你已击退敌方增援部队！\n
 Hostile QRF has been rendered combat Ineffective, you've held the town=Hostile QRF has been rendered combat Ineffective, you've held the town=敌方快速响应力量已丧失战斗力，你已成功守住城镇。
@@ -1092,6 +1098,7 @@ Clear OBJ Charlie=清理目标区域 查理
 Objective Alpha=目标区域 阿尔法
 Objective Bravo=目标区域 布拉沃
 Objective Charlie=目标区域 查理
+
 You have Cleared OBJ Alpha. Move on to OBJ Bravo=你已经清理目标区域 阿尔法.移动到目标区域 布拉沃
 You have Cleared OBJ Bravo. Move on to OBJ Charlie=你已经清理目标区域 布拉沃.移动到目标区域 查理
 <s>粉碎敌军的进攻</s>=<s>粉碎敌军的进攻</s>
