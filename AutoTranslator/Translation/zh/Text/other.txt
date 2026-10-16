@@ -431,6 +431,8 @@ You've managed to escape northward and take out the assembly area. The next miss
 You've managed to escape southward and take out the assembly area. The next mission is on Eastern Hills=你已成功向南突围并摧毁了集结地域。下一项任务在东部丘陵。
 Push through the enemy's offensive and regroup with friendly forces.=穿过敌军进攻并与友军会合。
 You've rallied up with friendly forces, escaping your encirclement.=你已与友军会合，成功脱离包围。
+We have made radio contact with the friendly forces, they are under attack Help them. Artillery is on call as well!=我们已与友军取得无线电联系，他们正遭到攻击，去帮助他们。炮兵也可随时呼叫支援！
+You have escaped the enemy lines with both escorted platoons!\n=你已带着两个被护送的排逃出敌军防线！\n
 Dynamically Spawned Squad: Squad=动态生成群组: 小队
 - Secure the Second Defence Line West=- 占领第二西线防御阵地
 - Secure the Second Defence Line East=- 占领第二东线防御阵地
